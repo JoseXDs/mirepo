@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 moto
 moto
 moto
@@ -8,3 +9,15 @@ moto
 moto
 moto
 moto
+=======
+remoto
+remoto
+remoto
+remoto
+remoto
+remoto
+remoto
+remoto
+remoto
+remoto
+>>>>>>> b8347666b9160aab92ebdb22f8933a65350a1251
