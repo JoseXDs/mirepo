@@ -1,6 +1,10 @@
-mi
-texto
 local
-ac
-tuali
-zado
+local
+local
+local
+local
+local
+local
+local
+local
+local
