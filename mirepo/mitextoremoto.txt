@@ -1,0 +1,16 @@
+<<<<<<< HEAD
+
+
+
+
+
+
+mitextoremoto
+
+=======
+mi
+
+texto
+
+remoto
+>>>>>>> 8c60529abebfaa0be3f0e329c7b62d473d74a497
