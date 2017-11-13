@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 moto5
 moto5
 moto5
@@ -8,4 +9,16 @@ moto5
 moto5
 moto5
 moto5
+=======
+moto6
+moto6
+moto6
+moto6
+moto6
+moto6
+moto6
+moto6
+moto6
+moto6
+>>>>>>> 785d86eec5ef73b310c3427e40f30573a53377fa
 
