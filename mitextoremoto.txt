@@ -1,6 +1,5 @@
-mitextoremoto
-ac
-tua
-li
-za
-do
+mi
+
+texto
+
+remoto
